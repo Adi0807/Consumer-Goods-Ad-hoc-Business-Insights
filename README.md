@@ -1,6 +1,6 @@
 # 💼 Atliq Hardware | Consumer Goods Ad-hoc Business Insights
 
-A SQL-driven project created for the [Codebasics Resume Project Challenge](https://codebasics.io/event/codebasics-resume-project-challenge). This analysis addresses 10 real-world ad-hoc data requests from Atliq Hardware — a fictional computer hardware manufacturer — with business-focused SQL queries and visual storytelling via Power BI.
+A SQL-driven project from Codebasics Resume Challenge. This analysis addresses 10 real-world ad-hoc data requests from Atliq Hardware — a fictional computer hardware manufacturer — with business-focused SQL queries and visual storytelling via Power BI.
 
 ---
 
