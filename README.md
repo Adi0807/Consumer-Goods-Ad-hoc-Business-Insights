@@ -56,10 +56,10 @@ Contains multiple dimension and fact tables related to sales, products, customer
 
 ## 🖼️ Project Files
 
-- [`atliq_hardware_db.sql`](./atliq_hardware_db.sql) – SQL database
+- [`atliq_hardware_db.zip`](./atliq_hardware_db.zip) – SQL database
 - [`ad-hoc-requests.pdf`](./ad-hoc-requests.pdf) – Challenge description
-- [`Presentation.pdf`](./Presentation.pdf) – Project presentation with visuals
-- `SQL Queries Folder` – Contains all 10 individual SQL scripts
+- [`Ad_hoc_requests_presentation.pdf`](./Ad_hoc_requests_presentation.pdf) – Project presentation with visuals
+- `Soln_codes` – Contains all SQL scripts
 
 ---
 
